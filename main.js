@@ -37,3 +37,4 @@ else{
     theme = localStorage.getItem("theme");
     change_theme();
 }
+//this is javascript
