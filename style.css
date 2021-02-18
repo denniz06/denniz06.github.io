@@ -76,11 +76,10 @@
 
 .photo{
     float: left;
-    width: 300px;
-    height: 300px;
-    border-radius: 140px;
-    margin-right: 50px;
-    margin-top: 15px;
+    width: 400px;
+    height: 400px;
+    margin: 5%;
+    border-radius: 240px;
     background: url("https://avatars.githubusercontent.com/u/79112079?s=400&u=358a821e84e0fe375756f362bc3c31092d73df2a&v=4") no-repeat;
 }
 
